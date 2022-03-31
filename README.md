@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Vishwanath Biradar
 Lead | Architect | Engineer | VMware | Nutanix | Wintel | Infrastructure As Code | Cloud 
-<!--
+
 <div>
  <p>
 - 🔭 I’m currently working as Senior Engineer /Architect managing OnPrem VMware + Nutanix  Infrastructure with over 800 Dell PowerEdge Nodes hosting approx 9K guest VMs. 
@@ -11,6 +11,7 @@ Lead | Architect | Engineer | VMware | Nutanix | Wintel | Infrastructure As Code
 - 💬 Ask me about ...VMware, Nutanix, Site Recovery Manager, vSAN and off late AWS :-) 
 - 📫 How to reach me: ...vishwanath.biradar@gmail.com
 - 😄 Pronouns: ... He/Him
+
 </p>
 </div>
 
