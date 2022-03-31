@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Vishwanath Biradar
 Lead | Architect | Engineer | VMware | Nutanix | Wintel | Infrastructure As Code | Cloud 
 <!--
-**vishgithubuser/vishgithubuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div>
+ <p>
+![image](https://user-images.githubusercontent.com/24449541/161124547-66d1a051-81b6-4534-a26c-d960098ace0a.png)
 
 - 🔭 I’m currently working as Senior Engineer /Architect managing OnPrem VMware + Nutanix  Infrastructure with over 800 Dell PowerEdge Nodes hosting approx 9K guest VMs. 
    Besides the regular engineerig stuff , I spend time generating easier automated processes that cater towards  maintaing, managing, reporting stability of the virtual infrastructure, you would find me creating automation scripts using Powershell-PowerCli to help achieve this objective
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...VMware, Nutanix, Site Recovery Manager, vSAN and off late AWS :-) 
 - 📫 How to reach me: ...vishwanath.biradar@gmail.com
 - 😄 Pronouns: ... He/Him
--->
+</p>
+</div>![image](https://user-images.githubusercontent.com/24449541/161124606-472bfc91-8c88-4e91-93c9-05ec9f72d55f.png)
+
